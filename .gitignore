@@ -1,0 +1,7 @@
+scraped_accounts
+node_modules
+profiles
+accounts_all.json
+profiles.json
+test.js
+.vscode
